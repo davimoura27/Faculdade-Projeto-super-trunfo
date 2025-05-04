@@ -18,6 +18,8 @@ int main()
     float pib, pib2;
     int pontosTuristicos, pontosTuristicos2;
 
+    /*Primeira carta*/
+
     printf("*** Preencha a tabela ***\n\n");
 
     printf("Estado:");
