@@ -75,6 +75,8 @@ int main()
     printf("Pontos turisticos:");
     scanf("%d", &pontosTuristicos2);
 
+    /*Exibição*/
+
     printf("\n\n=== Carta 1 ===\n");
 
     printf("Estado:%s\n", estado);
